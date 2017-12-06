@@ -1,3 +1,6 @@
 ol,ul{
     list-style: none;
 }
+.pull-left{
+    float: left;
+}
